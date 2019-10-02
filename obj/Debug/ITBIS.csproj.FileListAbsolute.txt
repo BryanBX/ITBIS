@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\ITBIS\bin\Debug\ITBIS.exe.config
+E:\Google Drive\Proyects\ITBIS\bin\Debug\ITBIS.exe
+E:\Google Drive\Proyects\ITBIS\bin\Debug\ITBIS.pdb
+E:\Google Drive\Proyects\ITBIS\obj\Debug\ITBIS.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\ITBIS\obj\Debug\ITBIS.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\ITBIS\obj\Debug\ITBIS.exe
+E:\Google Drive\Proyects\ITBIS\obj\Debug\ITBIS.pdb
